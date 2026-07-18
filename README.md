@@ -96,6 +96,7 @@ Published as an IEEE research paper focusing on image processing techniques for 
 ## 📈 Currently Learning
 -Data science
 -Data Analysis
+-Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Data Visualization
