@@ -22,7 +22,6 @@ Passionate about transforming data into meaningful insights through Python, SQL,
 ### Programming Languages
 - Python
 - SQL
-- Java
 - C
 
 ### Data Science & Analytics
@@ -36,6 +35,7 @@ Passionate about transforming data into meaningful insights through Python, SQL,
 ### Databases
 - SQL Server
 - MySQL
+- Excel
 
 ### Tools & Technologies
 - Git
