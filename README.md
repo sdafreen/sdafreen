@@ -112,9 +112,9 @@ To secure a challenging position where I can apply my knowledge in Data Science,
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: afreensyed413@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn profile here)*
+💼 LinkedIn: https://www.linkedin.com/in/sd-afreen-1300aa286/
 
 🌐 GitHub: https://github.com/sdafreen
 
